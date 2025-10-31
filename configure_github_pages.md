@@ -7,7 +7,7 @@ I'll guide you through configuring GitHub Pages. Follow these steps exactly:
 ### Step 1: Open GitHub Settings
 ```bash
 # Copy and paste this URL into your browser:
-https://github.com/guitargnar/jaspermatters-job-intelligence/settings/pages
+https://github.com/guitargnarr/jaspermatters/settings/pages
 ```
 
 ### Step 2: Configure Source
@@ -34,7 +34,7 @@ After saving, you'll see a new section appear:
 ### Step 4: Check Deployment Status
 ```bash
 # Visit this URL to see build status:
-https://github.com/guitargnar/jaspermatters-job-intelligence/actions
+https://github.com/guitargnarr/jaspermatters/actions
 ```
 
 You should see a workflow running called "pages build and deployment"
@@ -49,7 +49,7 @@ A       @           185.199.108.153           600
 A       @           185.199.109.153           600  
 A       @           185.199.110.153           600
 A       @           185.199.111.153           600
-CNAME   www         guitargnar.github.io.     600
+CNAME   www         guitargnarr.github.io.     600
 ```
 
 **Important**: Delete any existing A records that point elsewhere!
@@ -57,7 +57,7 @@ CNAME   www         guitargnar.github.io.     600
 ## 🎯 Verification Steps
 
 ### Check GitHub Pages is Active:
-1. Go back to: https://github.com/guitargnar/jaspermatters-job-intelligence/settings/pages
+1. Go back to: https://github.com/guitargnarr/jaspermatters/settings/pages
 2. You should see: "✅ Your site is live at https://jaspermatters.com"
 
 ### Test Your Site (after DNS propagates):
@@ -82,7 +82,7 @@ nslookup jaspermatters.com
 
 ### Custom domain not working:
 - DNS can take 24-48 hours to fully propagate
-- Try: https://guitargnar.github.io/jaspermatters-job-intelligence first
+- Try: https://guitargnarr.github.io/jaspermatters-job-intelligence first
 - If that works, DNS just needs more time
 
 ### HTTPS not available:
@@ -95,7 +95,7 @@ nslookup jaspermatters.com
 You'll know it's working when:
 1. Settings page shows: "✅ Your site is live at https://jaspermatters.com"
 2. Actions tab shows: "✅ pages build and deployment" completed
-3. You can access: https://guitargnar.github.io/jaspermatters-job-intelligence
+3. You can access: https://guitargnarr.github.io/jaspermatters-job-intelligence
 4. Eventually: https://jaspermatters.com loads your site
 
 ## 📱 Quick Mobile Test
@@ -112,4 +112,4 @@ Once configured, test on your phone:
 - GitHub setup: 5 minutes ⚡
 - DNS propagation: 10 minutes to 24 hours 🌍
 
-**Status Check URL**: https://github.com/guitargnar/jaspermatters-job-intelligence/settings/pages
+**Status Check URL**: https://github.com/guitargnarr/jaspermatters/settings/pages

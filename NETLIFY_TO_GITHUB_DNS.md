@@ -31,7 +31,7 @@ A       @           185.199.108.153         600
 A       @           185.199.109.153         600
 A       @           185.199.110.153         600
 A       @           185.199.111.153         600
-CNAME   www         guitargnar.github.io.   600
+CNAME   www         guitargnarr.github.io.   600
 ```
 
 ## Step 2: Verify in GitHub Pages

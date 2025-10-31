@@ -11,7 +11,7 @@
 □ A record @ → 185.199.109.153 (GitHub)
 □ A record @ → 185.199.110.153 (GitHub)
 □ A record @ → 185.199.111.153 (GitHub)
-□ CNAME www → guitargnar.github.io
+□ CNAME www → guitargnarr.github.io
 
 ## After DNS Update:
 □ Wait 2-3 minutes
@@ -52,7 +52,7 @@ open https://jaspermatters.com
 
 **If site shows 404:**
 - DNS is working but GitHub Pages needs more time
-- Check: https://github.com/guitargnar/jaspermatters-job-intelligence/actions
+- Check: https://github.com/guitargnarr/jaspermatters/actions
 - Look for green checkmark on "pages build and deployment"
 
 **If still showing OurJourney:**

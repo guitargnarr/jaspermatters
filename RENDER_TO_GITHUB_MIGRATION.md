@@ -34,11 +34,11 @@ Type: A    Name: @    Value: 185.199.111.153    TTL: 600
 
 **Add this CNAME:**
 ```
-Type: CNAME    Name: www    Value: guitargnar.github.io    TTL: 600
+Type: CNAME    Name: www    Value: guitargnarr.github.io    TTL: 600
 ```
 
 ### 4️⃣ Verify in GitHub Pages
-- Go to: https://github.com/guitargnar/jaspermatters-job-intelligence/settings/pages
+- Go to: https://github.com/guitargnarr/jaspermatters/settings/pages
 - Click "Check again" next to DNS error
 - Once green ✅, enable "Enforce HTTPS"
 

@@ -5,7 +5,7 @@ Your domain jaspermatters.com is working but showing old content. Follow these s
 ## 🔴 Step 1: GitHub Pages Settings (DO THIS FIRST)
 
 The browser should already be open at the settings page. If not, go to:
-**https://github.com/guitargnar/jaspermatters-job-intelligence/settings/pages**
+**https://github.com/guitargnarr/jaspermatters/settings/pages**
 
 ### Configure these settings:
 
@@ -21,7 +21,7 @@ The browser should already be open at the settings page. If not, go to:
 
 ## 🟡 Step 2: Verify Deployment (2-10 minutes)
 
-Visit: **https://github.com/guitargnar/jaspermatters-job-intelligence/actions**
+Visit: **https://github.com/guitargnarr/jaspermatters/actions**
 
 You should see a workflow running called "pages build and deployment"
 
@@ -42,7 +42,7 @@ Once the workflow completes (green checkmark), visit:
 
 1. Clear your browser cache (Cmd+Shift+R)
 2. Try incognito/private browsing mode
-3. Check: https://guitargnar.github.io/jaspermatters-job-intelligence
+3. Check: https://guitargnarr.github.io/jaspermatters-job-intelligence
    - If this works, DNS just needs more time
    - If this doesn't work, GitHub Pages needs configuration
 

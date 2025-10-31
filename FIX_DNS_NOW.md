@@ -26,7 +26,7 @@ Go to your domain registrar (GoDaddy, Namecheap, etc.):
    A       @       185.199.109.153
    A       @       185.199.110.153
    A       @       185.199.111.153
-   CNAME   www     guitargnar.github.io
+   CNAME   www     guitargnarr.github.io
    ```
 
 ### After DNS Update:
@@ -46,7 +46,7 @@ Go to your domain registrar (GoDaddy, Namecheap, etc.):
 # Check current DNS (should show GitHub IPs)
 nslookup jaspermatters.com
 
-# Check CNAME (should show guitargnar.github.io)
+# Check CNAME (should show guitargnarr.github.io)
 nslookup www.jaspermatters.com
 
 # If you see Vercel IPs (76.76.21.21 or similar), DNS needs updating

@@ -27,7 +27,7 @@ Once nameservers are switched, the DNS Records tab will work:
 - Type: A, Name: @, Value: 185.199.111.153, TTL: 600
 
 **ADD this CNAME:**
-- Type: CNAME, Name: www, Value: guitargnar.github.io, TTL: 600
+- Type: CNAME, Name: www, Value: guitargnarr.github.io, TTL: 600
 
 ## Timeline
 - Nameserver change: 5-30 minutes

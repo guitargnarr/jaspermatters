@@ -6,7 +6,7 @@ The code is pushed to GitHub. Now complete these steps to make it live at jasper
 
 ## Step 1: Enable GitHub Pages (2 minutes)
 
-1. Go to: https://github.com/guitargnar/jaspermatters-job-intelligence/settings
+1. Go to: https://github.com/guitargnarr/jaspermatters/settings
 2. Scroll down to **Pages** section in the left sidebar
 3. Under **Source**, select:
    - **Deploy from a branch**
@@ -33,14 +33,14 @@ A       @       185.199.108.153
 A       @       185.199.109.153
 A       @       185.199.110.153
 A       @       185.199.111.153
-CNAME   www     guitargnar.github.io
+CNAME   www     guitargnarr.github.io
 ```
 
 Remove any existing A records pointing elsewhere.
 
 ## Step 3: Verify Deployment (10-20 minutes for DNS)
 
-1. Check deployment status: https://github.com/guitargnar/jaspermatters-job-intelligence/actions
+1. Check deployment status: https://github.com/guitargnarr/jaspermatters/actions
 2. Once DNS propagates, visit: https://jaspermatters.com
 3. Test the live demos in the terminal
 4. Check that resume page works: https://jaspermatters.com/resume.html
