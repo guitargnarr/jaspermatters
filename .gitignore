@@ -64,3 +64,6 @@ dist/
 
 # Production build
 index.html.backup
+
+# Local Netlify folder
+.netlify
