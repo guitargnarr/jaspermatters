@@ -56,3 +56,11 @@ package-lock.json
 # Build artifacts
 *.whl
 *.egg
+
+# React/Vite
+dist/
+.vite/
+*.local
+
+# Production build
+index.html.backup
