@@ -1,0 +1,25 @@
+# Minimal dependencies for FastAPI production deployment
+# This reduces memory footprint for Render.com free tier (512MB limit)
+
+# API Framework
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.0
+python-multipart==0.0.12
+
+# Core ML - TensorFlow only
+tensorflow-cpu==2.20.0
+scikit-learn==1.7.1
+pandas==2.3.1
+numpy==2.3.2
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.32.5
+
+# Note: Removed to save memory on free tier:
+# - torch (we only use TensorFlow)
+# - jupyter and notebook dependencies (only needed for local development)
+# - matplotlib/seaborn (only needed for validation script)
+# - pinecone (not used in API)
+# - sentence-transformers (would require torch)
